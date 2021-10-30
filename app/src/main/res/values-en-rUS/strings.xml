@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MathMe</string>
+    <string name="title">Hello</string>
+    <string name="chngLan">Change Language</string>
+    <string name="easyLevel">Easy</string>
+    <string name="normalLevel">Normal</string>
+    <string name="hardLevel">Hard</string>
+    <string name="trueBtn">True</string>
+    <string name="falseBtn">False</string>
+    <string name="nextBtn">Next</string>
+    <string name="correct_answer">Correct</string>
+    <string name="wrong_answer">Incorrect</string>
+    <string name="backBtn">Back</string>
+    <string name="question1">20 + 5 = 15</string>
+    <string name="question2">150 - 50 = 100</string>
+    <string name="question3">70 + 30 = 40</string>
+    <string name="question5">6 / 2 = 3</string>
+    <string name="question6">50 - 30 = 10</string>
+    <string name="score">"Score: "</string>
+    <string name="start">Start</string>
+    <string name="question4">10 x 10 = 20</string>
+    <string name="Email">" Email"</string>
+    <string name="AlreadyHaveAnAccount">Already have an account?</string>
+    <string name="MusicStop">Stop</string>
+    <string name="Music">Play</string>
+    <string name="table">Record table</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="welcome">Welcome to MathMe game!</string>
+    <string name="NotRegistered">Not registered? Sign up here</string>
+    <string name="diffiLevels">Difficulty level</string>
+    <string name="Instructions">Instructions</string>
+    <string name="menu">Menu</string>
+    <string name="SignIn">Sign In</string>
+    <string name="NickName">Nick Name</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="Check">Check</string>
+    <string name="InstrucText">This is a math game.     In this game we have two difficulties: easy and hard.     In every level you need to answer as fast as you can.     The results  will be saved in the records table, you can watch it at gameover.</string>
+    <string name="EndGame">End</string>
+    <string name="tryAgain">Try Again</string>
+    <string name="yourScore">"Your score is: "</string>
+</resources>

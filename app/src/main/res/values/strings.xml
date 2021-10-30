@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">MathMe</string>
+    <string name="welcome">Welcome to MathMe game!</string>
+    <string name="chngLan">Change Language</string>
+    <string name="easyLevel">Easy</string>
+    <string name="normalLevel">Normal</string>
+    <string name="hardLevel">Hard</string>
+    <string name="trueBtn">True</string>
+    <string name="falseBtn">False</string>
+    <string name="nextBtn">Next</string>
+    <string name="backBtn">Back</string>
+    <string name="correct_answer">Correct</string>
+    <string name="wrong_answer">Incorrect</string>
+    <string name="description" translatable="false">quizPic</string>
+    <string name="score">Your score is: </string>
+    <string name="start">Start</string>
+    <string name="title">Hello</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="SignIn">Sign In</string>
+    <string name="Email"> Email</string>
+    <string name="NotRegistered">Not registered? Sign up here</string>
+    <string name="Instructions">Instructions</string>
+    <string name="diffiLevels">Difficulty level</string>
+    <string name="table">Record table</string>
+    <string name="Music">Play</string>
+    <string name="MusicStop">Stop</string>
+    <string name="Welcome" translatable="false">Welcome</string>
+    <string name="NickName">Nick Name</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="AlreadyHaveAnAccount">Already Have An Account?</string>
+    <string name="Check">Check</string>
+    <string name="EndGame">End</string>
+    <string name="tryAgain">Try Again</string>
+    <string name="NickTotable" translatable="false">NicktoTable</string>
+    <string name="RecordTableTitle" translatable="false">Record Table</string>
+    <string name="yourScore">Your score is: </string>
+    <string name="nickname" translatable="false">Nickname</string>
+    <string name="passnickname" translatable="false">value</string>
+    <string name="PASSNICKNAME" translatable="false"> Value, </string>
+
+    <string name="InstrucText">This is a math game.     In this game we have two difficulties: easy and hard.     In every level you need to answer as fast as you can.     The results  will be saved in the records table, you can watch it at gameover.</string>
+
+
+    // Questions
+    <string name="question1">20 + 5 = 15</string>
+    <string name="question2">150 - 50 = 100</string>
+    <string name="question3">70 + 30 = 40</string>
+    <string name="question4">10 x 10 = 20</string>
+    <string name="question5">6 / 2 = 3</string>
+    <string name="question6">50 - 30 = 10</string>
+
+
+</resources>

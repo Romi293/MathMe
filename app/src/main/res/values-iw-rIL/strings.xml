@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">10 = 30 - 50</string>
+    <string name="chngLan">שנה שפה</string>
+    <string name="easyLevel">קל</string>
+    <string name="normalLevel">בינוני</string>
+    <string name="hardLevel">קשה</string>
+    <string name="trueBtn">נכון</string>
+    <string name="falseBtn">לא נכון</string>
+    <string name="nextBtn">הבא</string>
+    <string name="correct_answer">תשובה נכונה</string>
+    <string name="wrong_answer">תשובה שגויה</string>
+    <string name="backBtn">הקודם</string>
+    <string name="question1">15 = 20 + 5</string>
+    <string name="question2">100 = 50 - 150</string>
+    <string name="question3">"40 = 70 + 30 "</string>
+    <string name="question5">3 = 2 / 6</string>
+    <string name="question6">10 = 30 - 50</string>
+    <string name="score">ניקוד:</string>
+    <string name="start">התחל</string>
+    <string name="question4">20 = 10 x 10</string>
+    <string name="Email">אימייל</string>
+    <string name="AlreadyHaveAnAccount">חשבון כבר קיים?</string>
+    <string name="MusicStop">עצור</string>
+    <string name="Music">הפעל</string>
+    <string name="table">טבלת שיאים</string>
+    <string name="SignUp">הירשם</string>
+    <string name="welcome">ברוך הבא למשחק MathMe!</string>
+    <string name="title">שלום</string>
+    <string name="NotRegistered">לא רשום? הירשם כאן</string>
+    <string name="diffiLevels">רמת קושי</string>
+    <string name="Instructions">הוראות</string>
+    <string name="menu">תפריט</string>
+    <string name="SignIn">התחבר</string>
+    <string name="NickName">כינוי</string>
+    <string name="Password">סיסמה</string>
+    <string name="Login">התחברות</string>
+    <string name="Register">הרשמה</string>
+    <string name="Check">בדוק</string>
+    <string name="InstrucText">משחק מתמטי לימודי.
+        המשחק מחולק לפי דרגות קושי- קל וקשה.
+        מטרת המשחק היא לענות על השאלות כמה שיותר מהר על מנת לצבור יותר נקודות.
+        תתוצאות המשחקים יישמרו בטבלת השיאים ותוכל\י לצפות בהן בסיום המשחק.</string>
+    <string name="EndGame">סיים משחק</string>
+    <string name="tryAgain">נסה שוב</string>
+    <string name="yourScore">"הניקוד שלך הוא: "</string>
+</resources>
